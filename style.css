@@ -1,0 +1,26 @@
+#myname {
+    text-align: center;
+}
+#details {
+    text-align: center;
+}
+#bodydetails {
+    width : 60%;
+    /* margin-left: 200px;
+    margin-right: 200px; */
+}
+.contactimage {
+    width: 20px;
+    filter: grayscale(100%);
+}
+.contactlink {
+    color: black;
+}
+#listofprojects {
+    width : 60%;
+    align-content: center;
+}
+
+.projectpic {
+    width: 200px;
+}
